@@ -1,0 +1,5 @@
+Scrapy==2.2.1
+dataclasses==0.6
+marshmallow==3.7.1
+itemadapter==0.1.0
+schedule==0.6.0
