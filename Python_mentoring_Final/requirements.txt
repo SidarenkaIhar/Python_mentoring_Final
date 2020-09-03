@@ -1,0 +1,7 @@
+Scrapy==2.3.0
+dataclasses==0.6
+marshmallow==3.7.1
+itemadapter==0.1.0
+schedule==0.6.0
+marshmallow-dataclass==8.0.0
+python-telegram-bot==12.8
