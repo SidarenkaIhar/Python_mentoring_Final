@@ -2,11 +2,11 @@
 DATABASE_NAME = '../mydatabase.db'
 
 # Configure telegram bot
-TELEGRAM_BOT_TOKEN = "1373579556:AAE5S4DTUnRDIMlVlfWEqsRAZio957k6eAA"
+TELEGRAM_BOT_TOKEN = "TELEGRAM_BOT_TOKEN"
 
 # Configure notifier
-NOTIFIER_EMAIL = "onliner-price-notifier@yandex.by"
-NOTIFIER_EMAIL_PASSWORD = "V2Xh2EscxL"
+NOTIFIER_EMAIL = "EMAIL"
+NOTIFIER_EMAIL_PASSWORD = "PASSWORD"
 
 # Configure logging
 LOG_FILE = '../log/scrapper_onliner_log.txt'
